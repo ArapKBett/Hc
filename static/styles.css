@@ -1,0 +1,10 @@
+/* Custom styles for hCaptcha widget or additional tweaks */
+.h-captcha {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Smooth transitions for form elements */
+input:focus, button:focus {
+    transition: all 0.2s ease-in-out;
+}
