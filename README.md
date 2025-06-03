@@ -13,3 +13,13 @@ This project demonstrates integrating hCaptcha into a styled web application, lo
 
 ## Analysis 
 `python fingerprint.py`
+
+## Manually Solve: 
+Open the form in a browser, solve the hCaptcha, and copy the token from the network tab in DevTools.
+
+
+## Selenium: 
+Use Selenium to load the form and extract a token after manual solving. 
+
+
+
